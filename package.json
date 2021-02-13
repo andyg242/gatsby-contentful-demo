@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gatsby-contentful-demo",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Gatsby News Demo Site - Gatsby + Contentful Tutorial",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -34,9 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/andyg242/gatsby-contentful-demo"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/andyg242/gatsby-contentful-demo/issues"
   }
 }

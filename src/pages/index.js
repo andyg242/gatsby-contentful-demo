@@ -24,7 +24,7 @@ const NewsIndex = ({ data }) => {
             <div class="col-lg-8 col-md-10 mx-auto">
               <div class="site-heading">
                 <h1>Gatsby News</h1>
-                <span class="subheading">An example Gatsby Site.</span>
+                <span class="subheading">A simple example of Gatsby using Contentful</span>
               </div>
             </div>
           </div>

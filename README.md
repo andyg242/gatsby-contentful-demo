@@ -3,7 +3,7 @@
 
 
 Uses the Clean Blog Template
-https://github.com/BlackrockDigital/startbootstrap-clean-blog
+https://github.com/StartBootstrap/startbootstrap-clean-blog
 
 
 React components from : https://github.com/enaqx/awesome-react
